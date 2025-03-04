@@ -11,15 +11,15 @@ Landing Page template to promote a SaaS or an online course. It includes a moder
 ```
 📂 project-landing-page
 │── 📄 index.html # # Main page of the landing page.
-│── 📄 styles.css # Style file
-│─── 📄 script.js # script file.
+│── 📄 main.css # Style file
+│─── 📄 main.js # script file.
 ```
 
 ## How to Use
 1. Download or clone this repository.
 2. Open `index.html` in your browser to see the landing page in action.
-3. Customize `styles.css` to adapt the design to your brand.
-4. Modify `script.js` if you want to add additional interactivity.
+3. Customize `main.css` to adapt the design to your brand.
+4. Modify `main.js` if you want to add additional interactivity.
 
 ## Customization
 You can modify the content in `index.html` to adapt it to your product or service. 
